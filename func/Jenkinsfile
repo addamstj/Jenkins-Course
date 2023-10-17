@@ -11,4 +11,3 @@ pipeline {
 
 def myFunc(String myText) {
     echo "myText is set to: ${myText}"
-}
